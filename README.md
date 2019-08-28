@@ -15,4 +15,11 @@
 * Styling Learning Log
 * Deploying Learning Log
 
-![Image of popular repositories](ch17ex1.PNG)
+### Screen-shots
+
+![Image of log in page](Log in page.PNG)
+![Image of admin log in](admin log in page.PNG)
+![Image of admin main page](admin main page.PNG)
+![Image of new user reg page](new user register page.PNG)
+![Image of user login](user login.PNG)
+![Image of user logout](user logout.PNG)
