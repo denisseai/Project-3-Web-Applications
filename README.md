@@ -17,7 +17,7 @@
 
 ### Screen-shots
 
-![Image of log in page] (Log in page.PNG)
+![Image of log in page](logInPage.png)
 *Image of log in page*
 
 ![Image of admin log in] (admin log in page.PNG)
